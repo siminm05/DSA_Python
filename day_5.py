@@ -7,9 +7,9 @@ for i in range(6):
         print(i, j, end=" ", sep="")
     print()
 
-row = int(input("Enter row: ")) 
-col = int(input("Enter column: ")) 
-for i in range(0,row): 
+row = int(input("Enter row: "))
+col = int(input("Enter column: "))
+for i in range(0,row):
     for j in range(0,col):
         if i+j <= col-1:
             print("*", end=" ")
@@ -78,3 +78,17 @@ for i in range(5):
         else:
             print(" ", end=" ")
     print()
+
+
+for i in range(5):
+    for j in range(5):
+        print(chr(64+j+1), end= " ")
+    print()
+
+
+'''
+ascii code table:
+A - 65  ||  Z - 97
+a - 97  ||  z - 122
+0 - 48  ||  9 - 57
+'''
