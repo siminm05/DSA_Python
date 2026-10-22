@@ -1,0 +1,7 @@
+day 1 - funcs for factorial and fibonacci series (recursive included)
+day 2 - list, tuple, set and dictionary
+day 2 HW - write basic list functions
+day 3 - matrix (row and col sum) and search element in list
+day 4 - even/odd and prime/composite and min max in list
+day 5 - patterns (interview question)
+day 6 - patterns pt.2
