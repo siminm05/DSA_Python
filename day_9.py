@@ -37,7 +37,7 @@ for i in range(0, num):
 print("---------------")
 
 list = []
-num = 5
+num = int(input("Enter a num: "))
 for i in range(num):
     row = []
     for j in range(num):
@@ -48,10 +48,15 @@ for i in range(num):
             sum = list[i-1][j-1] + list[i-1][j]
             row.append(sum)
         else:
-            row.append(0)
+            row.append(" ")
     list.append(row)
 
+space = num-1
 for i in list:
+    for k in range(space):
+        print(" ", end= " ")
     for j in i:
         print(j, end = " ")
+        print(" ", end= " ")
     print()
+    space -= 1
