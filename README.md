@@ -5,3 +5,14 @@
 - day 4 - even/odd and prime/composite and min max in list
 - day 5 - patterns (interview question)
 - day 6 - patterns pt.2
+- day 7 - patterns pt.3
+- day 7 HW - patterns (level 0 complete)
+- day 8 - patterns - level 1
+- day 9 - patterns pt.2 (level 1)
+- day 10 - bubble sort
+- day 11 - binary search (with and without recursion)
+- day 12 - sort and merge list (practice) with pointers
+- day 13 - practice with list - level 1
+- day 14 - pratice questions with list - level 1
+- day 15 - selection sort and q1. find values with highest frequence in a list
+- day 16 - list questions (interview - easy-med level)
